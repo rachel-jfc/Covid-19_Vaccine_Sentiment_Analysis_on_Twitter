@@ -13,6 +13,27 @@
   - Modeling 
   - Conclusion
 
+### Tableau Public:
+**Overall Sentiment Trend**
+
+https://public.tableau.com/views/SentimentAnalysisofCOVID-19VaccineTweets/OverallSentimentChange?:language=en&:display_count=y&:origin=viz_share_link
+
+**Replies, Likes, Retweets and Total Count of Tweets**
+
+https://public.tableau.com/views/SentimentAnalysisofCOVID-19VaccineTweets/TweetsCounts?:language=en&:display_count=y&:origin=viz_share_link
+
+**Negative Tweet Counts vs Positive Tweet Counts**
+
+https://public.tableau.com/views/SentimentAnalysisofCOVID-19VaccineTweets/Neg_vs_Pos?:language=en&:display_count=y&:origin=viz_share_link
+
+**Tweet Counts & Timeline Summary**
+
+https://public.tableau.com/views/SentimentAnalysisofCOVID-19VaccineTweets/TimelineTweetsCount?:language=en&:display_count=y&:origin=viz_share_link
+
+**Sentiment & Timeline Summary**
+
+https://public.tableau.com/views/SentimentAnalysisofCOVID-19VaccineTweets/TimelineSentiment?:language=en&:display_count=y&:origin=viz_share_link
+
 ### Data:
 - Tweets **from** Twitter API
 - Timelines of COVID-19 developments **from** AJMC
